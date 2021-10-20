@@ -1,0 +1,9 @@
+stepDefs\AddPlaceStepsDefs.class
+stepDefs\Hooks.class
+pojo\AddPlace.class
+pojo\KlasaGlowna.class
+dane\ApiResourcesEnum.class
+dane\SpecBuilderCommons.class
+pojo\Location.class
+cucumber\Options\TestRunner.class
+dane\BodyDoWyslania.class

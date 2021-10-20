@@ -1,0 +1,94 @@
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?%22key%22%2C%20%22qaclick123%22
+Proxy:			<none>
+Request params:	<none>
+Query params:	"key", "qaclick123"
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -38.383494,
+        "lng": 33.427362
+    },
+    "accuracy": 50,
+    "name": "name bart one",
+    "phone_number": "(+91) 983 893 3937",
+    "address": "address bart one",
+    "types": [
+        "ala",
+        "ma"
+    ],
+    "website": "www.bart.pl",
+    "language": "language bart one"
+}
+HTTP/1.1 200 OK
+Date: Wed, 20 Oct 2021 13:17:42 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "d6bc76be07ca42a92b0ba4be0ee39cf9",
+    "scope": "APP",
+    "reference": "7f468587c9a10a4363afdf12b72cf0607f468587c9a10a4363afdf12b72cf060",
+    "id": "7f468587c9a10a4363afdf12b72cf060"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?%22key%22%2C%20%22qaclick123%22
+Proxy:			<none>
+Request params:	<none>
+Query params:	"key", "qaclick123"
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -38.383494,
+        "lng": 33.427362
+    },
+    "accuracy": 50,
+    "name": "name bart two",
+    "phone_number": "(+91) 983 893 3937",
+    "address": "address bart two",
+    "types": [
+        "ala",
+        "ma"
+    ],
+    "website": "www.bart.pl",
+    "language": "language bart two"
+}
+HTTP/1.1 200 OK
+Date: Wed, 20 Oct 2021 13:17:53 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "a6796a83ba29ada5114d9b882290fcf3",
+    "scope": "APP",
+    "reference": "25d453a307a4b0986953d0f3048bb39d25d453a307a4b0986953d0f3048bb39d",
+    "id": "25d453a307a4b0986953d0f3048bb39d"
+}
