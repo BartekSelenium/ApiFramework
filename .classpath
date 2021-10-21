@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Bartek/eclipse-workspace/cucumber-jars/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/eclipse-workspace/cucumber-jars/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/eclipse-workspace/cucumber-jars/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/eclipse-workspace/cucumber-jars/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/eclipse-workspace/cucumber-jars/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/eclipse-workspace/cucumber-jars/cucumber-reporting-0.1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/eclipse-workspace/cucumber-jars/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/eclipse-workspace/cucumber-jars/mockito-all-1.9.1-20110911.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/eclipse-workspace/cucumber-jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/eclipse-workspace/jackson-databind-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/eclipse-workspace/jackson-annotations-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/eclipse-workspace/jackson-core-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/eclipse-workspace/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/eclipse-workspace/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/eclipse-workspace/cucumber-eclipse-plugin-0.0.22-SNAPSHOT/artifacts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/eclipse-workspace/cucumber-eclipse-plugin-0.0.22-SNAPSHOT/content.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/eclipse-workspace/cucumber-eclipse-plugin-0.0.22-SNAPSHOT/features/cucumber.eclipse.feature_0.0.22.201806032001.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/eclipse-workspace/cucumber-eclipse-plugin-0.0.22-SNAPSHOT/plugins/cucumber.eclipse.editor_0.0.22.201806032001.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/eclipse-workspace/cucumber-eclipse-plugin-0.0.22-SNAPSHOT/plugins/cucumber.eclipse.steps.integration_0.0.22.201806032001.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/eclipse-workspace/cucumber-eclipse-plugin-0.0.22-SNAPSHOT/plugins/cucumber.eclipse.steps.jdt_0.0.22.201806032001.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
