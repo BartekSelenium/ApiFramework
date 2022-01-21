@@ -121,6 +121,7 @@ public class AddPlaceStepsDefs extends SpecBuilderCommons{
 		.body(bodyDoWyslania.deletePlaceBody(place));
 		
 	System.out.println("to jest delete");
+	System.out.println("jenkins framework super");
 		
 	}
 	
