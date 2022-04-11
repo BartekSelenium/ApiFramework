@@ -89,6 +89,7 @@ public class AddPlaceStepsDefs extends SpecBuilderCommons{
 		System.out.println("to jest odpowiedz api String");
 		assertEquals(js.getString(expectedKey), expectedValue);
 		System.out.println("to jest odpowiedz api String");
+		System.out.println("ALA MA KOTA - tylko na branczu");
 	}
 	
 	@Then("^verify placeId created maps to \"([^\"]*)\" using \"([^\"]*)\"$")
